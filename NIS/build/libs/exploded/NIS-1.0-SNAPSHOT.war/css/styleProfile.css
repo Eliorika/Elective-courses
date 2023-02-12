@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+.profile{
+	position: relative;
+	text-align:center;
+	top:25%;
+	left:400px;
+}
+
+
+aside {
+	float: left;
+	width: 250px;
+}
+
+.aside-menu li {
+	text-align:left;
+	font-weight: 300;
+	list-style-type: square;
+	border-top: 1px solid #CD853F;
+}
+
+.aside-menu li:first-child {
+	border: none;
+}
+
+.aside-menu li.active {
+	color: #CD853F;
+}
+
+.aside-menu a {
+	color: #2F4F4F;
+	text-decoration: none;
+}
+

@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+#inputMark{
+	margin-left: 310px;
+	width:100%;
+	text-align:left;
+	height: 420px;
+	font: 20px/20px 'Oswald', CONSTANTIA;
+}

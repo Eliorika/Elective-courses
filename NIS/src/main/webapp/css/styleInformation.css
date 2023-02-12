@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+#heading {
+	margin: 50% 0;
+	color: #2F4F4F;
+	font: 40px/40px 'Oswald', CONSTANTIA;
+	margin: 0;
+	padding: 0 10px;
+	margin-left: 10px;
+
+}
+
+#about{
+	margin-left: 20px;
+}
+

@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+#heading {
+	margin: 50% 0;
+	color: #2F4F4F;
+	font: 40px Monserrat;
+	margin: 0;
+	padding: 0 10px;
+}

@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+nav a {
+	text-decoration: none;
+}
+
+nav ul {
+	text-align:center;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	text-align:center;
+	list-style-position: inside;
+	font: 14px 'Oswald', sans-serif;
+	padding: 10px;
+}
+
+.top-menu li {
+	text-align:center;
+	display: inline-block;
+	padding: 10px 30px;
+	margin: 0;
+}
+
+.top-menu li.active {
+	background: #CD853F;
+	color: #fff;
+}
+
+.top-menu a {
+	color: #b2b2b2;
+}
+
+#heading {
+	margin: 50% 0;
+	text-align:center;
+	color: #2F4F4F;
+	font: 40px/40px 'Oswald', CONSTANTIA;
+	margin: 0;
+	padding: 0 10px;
+}
+
+
+	
+
